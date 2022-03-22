@@ -1,5 +1,5 @@
 # cadtest
-Тестовое для CADesign<br>
-Для запуска:<br>
+
+Для запуска выполнить команды:<br>
 1. npm install 
 2. npm run dev
